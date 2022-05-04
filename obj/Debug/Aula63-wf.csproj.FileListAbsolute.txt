@@ -1,0 +1,11 @@
+C:\Users\nanar\source\repos\CSharpIntermediario\Aula63-wf\bin\Debug\Aula63-wf.exe.config
+C:\Users\nanar\source\repos\CSharpIntermediario\Aula63-wf\bin\Debug\Aula63-wf.exe
+C:\Users\nanar\source\repos\CSharpIntermediario\Aula63-wf\bin\Debug\Aula63-wf.pdb
+C:\Users\nanar\source\repos\CSharpIntermediario\Aula63-wf\obj\Debug\Aula63-wf.csproj.AssemblyReference.cache
+C:\Users\nanar\source\repos\CSharpIntermediario\Aula63-wf\obj\Debug\Aula63-wf.csproj.SuggestedBindingRedirects.cache
+C:\Users\nanar\source\repos\CSharpIntermediario\Aula63-wf\obj\Debug\Aula63_wf.Properties.Resources.resources
+C:\Users\nanar\source\repos\CSharpIntermediario\Aula63-wf\obj\Debug\Aula63-wf.csproj.GenerateResource.cache
+C:\Users\nanar\source\repos\CSharpIntermediario\Aula63-wf\obj\Debug\Aula63-wf.csproj.CoreCompileInputs.cache
+C:\Users\nanar\source\repos\CSharpIntermediario\Aula63-wf\obj\Debug\Aula63-wf.exe
+C:\Users\nanar\source\repos\CSharpIntermediario\Aula63-wf\obj\Debug\Aula63-wf.pdb
+C:\Users\nanar\source\repos\CSharpIntermediario\Aula63-wf\obj\Debug\Aula63_wf.Telas.Carros.resources
